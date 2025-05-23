@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rehman khan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🌏  My **Portfolio**: https://rehman0601.github.io/Portfolio/
 
 - 🌱 I’m currently learning **Front-end development and game development**
 
