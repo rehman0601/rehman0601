@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **java, python and game Development**
 
-- 📫 How to reach me **rehmank907@gmail.com**
+- 📫 How to reach me **rehmanwork0105@gmail.com**
 
 - ⚡ Fun fact **I am a gamer too**
 
